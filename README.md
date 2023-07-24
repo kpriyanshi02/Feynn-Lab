@@ -1,5 +1,5 @@
-A case study on market segmentation of Mcdonald's:
-Steps:
+A case study on market segmentation of Mcdonald's daatset. Here are the steps followed:
+
 1. Introduction and getting familiar with the dataset.
 2. Preprocessing and label encoding.
 3. Exporatory data analysis (EDA)
